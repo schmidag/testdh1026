@@ -1,9 +1,6 @@
 Writing a Juncture Essay
 
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
-
-
-<iframe :id="id" :name="name" :allow="allow" :height="iframeHeight" :width="iframeWidth" :allowfullscreen="allowfullscreen" :mozallowfullscreen="allowfullscreen" :msallowfullscreen="allowfullscreen" :webkitallowfullscreen="allowfullscreen" :frameborder="frameborder" :src="src" :allowtransparency="allowtransparency" :referrerpolicy="referrerpolicy"></iframe>
        
 <param ve-config 
        title="Girl with a Pearl Earring"
@@ -23,7 +20,7 @@ Writing a Juncture Essay
 
 This is a sample visual essay demonstrating a few key features of a Visual Essay. Additional [Documentation](https://github.com/JSTOR-Labs/juncture/wiki) and [examples](https://jstor-labs.github.io/juncture-examples) are available for reference.
 <param ve-image 
-       manifest=https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100059909473.0x000001/f9/manifest.json
+       manifest=https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100059909473.0x000001/f9/manifest.json>
 
 # Basic usage
 
